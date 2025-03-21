@@ -59,6 +59,6 @@ Build an automated dashboard to monitor email campaign performance and prioritiz
 
 ## 📬 Contact  
 For questions or collaboration opportunities:  
-- **Email**: rishikesh.borah4@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
+- **Email**:  <a href="mailto:rishikesh.borah4@gmail.com" target="_blank" style="display: inline-block; background-color: #D44638; color: #fff; padding: 8px 16px; margin: 5px 10px; text-decoration: none; border-radius: 4px;">Gmail</a> 
+- **LinkedIn**: <a href="https://www.linkedin.com/in/rishikesh-borah-3b245284/" target="_blank" style="display: inline-block; background-color: #0077B5; color: #fff; padding: 8px 16px; margin: 5px 10px; text-decoration: none; border-radius: 4px;">Rishikesh Borah</a> 
+- **GitHub**: <a href="https://github.com/Coder-Reveur" target="_blank" style="display: inline-block; background-color: #0077B5; color: #fff; padding: 8px 16px; margin: 5px 10px; text-decoration: none; border-radius: 4px;">Rishikesh Borah</a> 
